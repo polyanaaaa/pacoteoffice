@@ -1,0 +1,61 @@
+.city {
+background-color: rgb(237, 181, 108);
+color: rgb(4, 3, 3);
+border: 4px solid black;
+margin: 20px;
+padding: 20px;
+}
+
+.cityy {
+    background-color: rgb(237, 181, 108);
+    color: rgb(4, 3, 3);
+
+    margin: 20px;
+    padding: 20px;
+    }
+
+.word{
+background-color: rgb(123, 164, 239);
+ color: rgb(0, 0, 0);
+margin: 20px;
+padding: 20px;
+}
+.wordd{
+    background-color: rgb(70, 112, 208);
+     color: rgb(0, 0, 0);
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    }
+
+.excel{
+    background-color: rgb(47, 185, 98);
+ color: white;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+
+}
+
+.excell{
+    background-color: rgb(32, 164, 107);
+     color: rgb(0, 0, 0);
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    }
+
+.pp{
+    background-color: rgb(236, 80, 80);
+ color: white;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+}
+.ppp{
+    background-color: rgb(228, 49, 49);
+     color: rgb(0, 0, 0);
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    }
